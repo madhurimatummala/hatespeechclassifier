@@ -1,0 +1,3 @@
+# Hate Speech Classifier
+
+Hate speech classifier has an automated method for finding instances of hate speech in textual data. Machine learning algorithms are trained to identify textual patterns and presence of hate speech. It is implemented on Hate Speech and Offensive Language (HSOL) dataset which consists of 24,802 tweets that have been manually flagged. The dataset includes three classes: hate speech, offensive language, and neither.
